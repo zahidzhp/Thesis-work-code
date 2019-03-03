@@ -1,6 +1,3 @@
-#trining code modification and evaluation ...
-
-
 import matplotlib as mpl
 mpl.use('Agg')      # training mode, no screen should be open. (It will block training loop)
 
